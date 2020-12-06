@@ -5,7 +5,7 @@
 ## I'm a Full Stack developer !!
 
 - 🔭 I have knowledge about full stack developement in javascript  !
-- 🌱 I’m currently Flutter developement 🤣
+- 🌱 I’m currently Full Stack developer in javascript 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games
