@@ -7,7 +7,7 @@
 - 🔭 I have knowledge about full stack developement in javascript  !
 - 🌱 I’m currently working on react-redux. 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 
 
